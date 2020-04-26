@@ -1,0 +1,5 @@
+Compile:
+g++ -std=c++11 coin.cpp -o coin
+
+Run:
+./coin
